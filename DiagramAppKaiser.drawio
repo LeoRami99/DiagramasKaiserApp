@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T21:28:09.240Z" agent="5.0 (X11)" etag="-fl8nSZKCTaIlO0-rkj9" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T21:56:43.525Z" agent="5.0 (X11)" etag="6TdzLwT5AGsCCFnaFj8L" version="13.7.8" type="github">
   <diagram id="FviH7WdWDiOahbcqMCGG" name="Página-1">
-    <mxGraphModel dx="2410" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2131" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,16 +60,17 @@
         <mxCell id="NvFKjDnqOkrlTLwATZRl-9" value="Datos de usuario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="540" y="160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V6xglCxnCICqA_mt9Ce--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--3" target="V6xglCxnCICqA_mt9Ce--5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="612" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V6xglCxnCICqA_mt9Ce--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--3" target="V6xglCxnCICqA_mt9Ce--5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="585" />
+              <mxPoint x="525" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V6xglCxnCICqA_mt9Ce--3" value="Fomulario Accidente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V6xglCxnCICqA_mt9Ce--5" value="Datos del formulario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="590" y="560" width="140" height="60" as="geometry" />
+          <mxGeometry x="590" y="570" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6xglCxnCICqA_mt9Ce--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--7" target="V6xglCxnCICqA_mt9Ce--11">
           <mxGeometry relative="1" as="geometry">
