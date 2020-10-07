@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T21:06:02.987Z" agent="5.0 (X11)" etag="S3Nl9lBQbYYSw2SV5drG" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-07T21:25:46.415Z" agent="5.0 (X11)" etag="2ASsCm1aJIxxsMcu1zsb" version="13.7.8" type="github">
   <diagram id="FviH7WdWDiOahbcqMCGG" name="Página-1">
-    <mxGraphModel dx="1108" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="L3_cZmDm4OvMKgg9Aqrz-3" value="Registrar Usuario" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L3_cZmDm4OvMKgg9Aqrz-4" target="V6xglCxnCICqA_mt9Ce--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L3_cZmDm4OvMKgg9Aqrz-4" value="Iniciar Sesión Usuario" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="130" height="60" as="geometry" />
@@ -56,6 +59,54 @@
         </mxCell>
         <mxCell id="NvFKjDnqOkrlTLwATZRl-9" value="Datos de usuario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
           <mxGeometry x="540" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--3" target="V6xglCxnCICqA_mt9Ce--5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--3" value="Fomulario Accidente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--5" target="V6xglCxnCICqA_mt9Ce--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--5" value="Datos del formulario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--7" target="V6xglCxnCICqA_mt9Ce--11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--7" value="&lt;br&gt;&lt;div&gt;Ubicación&lt;/div&gt;Preguntas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="910" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--9" target="V6xglCxnCICqA_mt9Ce--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--9" value="Mapa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--11" target="V6xglCxnCICqA_mt9Ce--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--11" value="Datos del formulario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="890" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V6xglCxnCICqA_mt9Ce--13" target="V6xglCxnCICqA_mt9Ce--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="800" />
+              <mxPoint x="400" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6xglCxnCICqA_mt9Ce--13" value="Información del accidente" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="670" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
